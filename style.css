@@ -192,6 +192,7 @@ td {
 .footer-copyright a:link {
   color: rgb(255, 229, 229);
   text-decoration: none;
+  text-align: center;
 }
 
 .Annoucements {
@@ -259,5 +260,6 @@ body {
   text-shadow: #002b3f;
   font-size: 35px;
 }
+
 
 
